@@ -37,3 +37,6 @@ The generator will try to fool the discriminator to classify its output as real.
 $log(1 - D(G(z)))$
 
 The generator will try to minimize this function.
+
+## Results
+![results](./epoch_100.png)
