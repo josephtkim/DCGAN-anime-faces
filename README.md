@@ -41,4 +41,8 @@ $log(1 - D(G(z)))$
 The generator will try to minimize this function.
 
 ## Results
+#### Anime Faces
 ![results](./epoch_100.png)
+
+#### MNIST digits
+![mnist_results](./mnist.gif)
