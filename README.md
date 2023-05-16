@@ -1,5 +1,5 @@
 # DCGAN-anime-faces
-DCGAN for generating anime faces
+DCGAN for generating anime faces, trained on the anime faces dataset https://www.kaggle.com/datasets/splcher/animefacedataset. 
 
 ## DCGAN architecture
 Model architecture used in the DCGAN paper https://arxiv.org/pdf/1511.06434.pdf: 
